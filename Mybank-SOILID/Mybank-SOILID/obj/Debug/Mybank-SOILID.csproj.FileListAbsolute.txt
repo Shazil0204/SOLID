@@ -1,0 +1,7 @@
+C:\Users\Public\Documents\Mybank-SOILID\Mybank-SOILID\bin\Debug\Mybank-SOILID.exe.config
+C:\Users\Public\Documents\Mybank-SOILID\Mybank-SOILID\bin\Debug\Mybank-SOILID.exe
+C:\Users\Public\Documents\Mybank-SOILID\Mybank-SOILID\bin\Debug\Mybank-SOILID.pdb
+C:\Users\Public\Documents\Mybank-SOILID\Mybank-SOILID\obj\Debug\Mybank-SOILID.csproj.AssemblyReference.cache
+C:\Users\Public\Documents\Mybank-SOILID\Mybank-SOILID\obj\Debug\Mybank-SOILID.csproj.CoreCompileInputs.cache
+C:\Users\Public\Documents\Mybank-SOILID\Mybank-SOILID\obj\Debug\Mybank-SOILID.exe
+C:\Users\Public\Documents\Mybank-SOILID\Mybank-SOILID\obj\Debug\Mybank-SOILID.pdb
