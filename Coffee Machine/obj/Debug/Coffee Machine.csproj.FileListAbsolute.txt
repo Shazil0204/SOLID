@@ -1,0 +1,7 @@
+C:\Users\Public\Documents\SOLID\Coffee Machine\bin\Debug\Coffee Machine.exe.config
+C:\Users\Public\Documents\SOLID\Coffee Machine\bin\Debug\Coffee Machine.exe
+C:\Users\Public\Documents\SOLID\Coffee Machine\bin\Debug\Coffee Machine.pdb
+C:\Users\Public\Documents\SOLID\Coffee Machine\obj\Debug\Coffee Machine.csproj.AssemblyReference.cache
+C:\Users\Public\Documents\SOLID\Coffee Machine\obj\Debug\Coffee Machine.csproj.CoreCompileInputs.cache
+C:\Users\Public\Documents\SOLID\Coffee Machine\obj\Debug\Coffee Machine.exe
+C:\Users\Public\Documents\SOLID\Coffee Machine\obj\Debug\Coffee Machine.pdb

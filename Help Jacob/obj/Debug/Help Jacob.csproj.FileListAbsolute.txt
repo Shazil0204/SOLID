@@ -1,0 +1,7 @@
+C:\Users\20shi\OneDrive\Desktop\SOLID\Help Jacob\obj\Debug\Help Jacob.csproj.AssemblyReference.cache
+C:\Users\20shi\OneDrive\Desktop\SOLID\Help Jacob\obj\Debug\Help Jacob.csproj.CoreCompileInputs.cache
+C:\Users\20shi\OneDrive\Desktop\SOLID\Help Jacob\bin\Debug\Help Jacob.exe.config
+C:\Users\20shi\OneDrive\Desktop\SOLID\Help Jacob\bin\Debug\Help Jacob.exe
+C:\Users\20shi\OneDrive\Desktop\SOLID\Help Jacob\bin\Debug\Help Jacob.pdb
+C:\Users\20shi\OneDrive\Desktop\SOLID\Help Jacob\obj\Debug\Help Jacob.exe
+C:\Users\20shi\OneDrive\Desktop\SOLID\Help Jacob\obj\Debug\Help Jacob.pdb
