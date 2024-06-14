@@ -4,13 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Help_Lone
+namespace Help_Lone.Interface
 {
-	internal class Program
+	internal interface IShield
 	{
-		static void Main(string[] args)
-		{
+		void RaiseShield();
+		void LowerShield();
+		void ShieldGlare();
 
-		}
 	}
 }

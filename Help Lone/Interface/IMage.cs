@@ -4,13 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Help_Lone
+namespace Help_Lone.Interface
 {
-	internal class Program
+	internal interface IMage
 	{
-		static void Main(string[] args)
-		{
+		int Mana { get; set; }
+		int MaxMana { get; set; }
 
-		}
 	}
 }

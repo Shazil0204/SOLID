@@ -43,15 +43,25 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Enums\SwordType.cs" />
+    <Compile Include="Interface\ICharacter.cs" />
+    <Compile Include="Interface\IFighter.cs" />
+    <Compile Include="Interface\IGender.cs" />
+    <Compile Include="Interface\IHealer.cs" />
+    <Compile Include="Interface\IMage.cs" />
+    <Compile Include="Interface\IShield.cs" />
+    <Compile Include="Interface\ITeleporter.cs" />
+    <Compile Include="Model\Barbarian.cs" />
+    <Compile Include="Model\Character.cs" />
+    <Compile Include="Model\Knight.cs" />
+    <Compile Include="Model\Witch.cs" />
+    <Compile Include="Model\Wizard.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Interface\" />
-    <Folder Include="Model\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

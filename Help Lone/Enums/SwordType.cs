@@ -4,13 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Help_Lone
+namespace Help_Lone.Enums
 {
-	internal class Program
+	internal enum SwordType
 	{
-		static void Main(string[] args)
-		{
-
-		}
+		Longsword, Sabre, Broadsword
 	}
 }

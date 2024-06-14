@@ -4,13 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Help_Lone
+namespace Help_Lone.Interface
 {
-	internal class Program
+	internal interface IHealer
 	{
-		static void Main(string[] args)
-		{
+		void Heal();
 
-		}
 	}
 }

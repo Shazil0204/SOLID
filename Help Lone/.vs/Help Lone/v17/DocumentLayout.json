@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Public\\Documents\\SOLID\\Help Lone\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{37F17842-A2D1-4FAC-860F-04DD90D63363}|Help Lone.csproj|c:\\users\\public\\documents\\solid\\help lone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37F17842-A2D1-4FAC-860F-04DD90D63363}|Help Lone.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{37F17842-A2D1-4FAC-860F-04DD90D63363}|Help Lone.csproj|c:\\users\\public\\documents\\solid\\help lone\\model\\knight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F17842-A2D1-4FAC-860F-04DD90D63363}|Help Lone.csproj|solutionrelative:model\\knight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F17842-A2D1-4FAC-860F-04DD90D63363}|Help Lone.csproj|c:\\users\\public\\documents\\solid\\help lone\\model\\barbarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F17842-A2D1-4FAC-860F-04DD90D63363}|Help Lone.csproj|solutionrelative:model\\barbarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F17842-A2D1-4FAC-860F-04DD90D63363}|Help Lone.csproj|c:\\users\\public\\documents\\solid\\help lone\\model\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F17842-A2D1-4FAC-860F-04DD90D63363}|Help Lone.csproj|solutionrelative:model\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F17842-A2D1-4FAC-860F-04DD90D63363}|Help Lone.csproj|c:\\users\\public\\documents\\solid\\help lone\\model\\wizard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F17842-A2D1-4FAC-860F-04DD90D63363}|Help Lone.csproj|solutionrelative:model\\wizard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F17842-A2D1-4FAC-860F-04DD90D63363}|Help Lone.csproj|c:\\users\\public\\documents\\solid\\help lone\\model\\witch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F17842-A2D1-4FAC-860F-04DD90D63363}|Help Lone.csproj|solutionrelative:model\\witch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -13,9 +29,22 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "DockedWidth": 290,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Barbarian.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\SOLID\\Help Lone\\Model\\Barbarian.cs",
+              "RelativeDocumentMoniker": "Model\\Barbarian.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\SOLID\\Help Lone\\Model\\Barbarian.cs",
+              "RelativeToolTip": "Model\\Barbarian.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T11:16:17.703Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
@@ -27,14 +56,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Public\\Documents\\SOLID\\Help Lone\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Public\\Documents\\SOLID\\Help Lone\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAGEAAAAAAAAAAAAYwD4AAAAVAAAA",
+              "Title": "Knight.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\SOLID\\Help Lone\\Model\\Knight.cs",
+              "RelativeDocumentMoniker": "Model\\Knight.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\SOLID\\Help Lone\\Model\\Knight.cs",
+              "RelativeToolTip": "Model\\Knight.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T11:48:36.294Z",
+              "WhenOpened": "2024-06-14T11:16:08.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Character.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\SOLID\\Help Lone\\Model\\Character.cs",
+              "RelativeDocumentMoniker": "Model\\Character.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\SOLID\\Help Lone\\Model\\Character.cs",
+              "RelativeToolTip": "Model\\Character.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T11:09:19.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Wizard.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\SOLID\\Help Lone\\Model\\Wizard.cs",
+              "RelativeDocumentMoniker": "Model\\Wizard.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\SOLID\\Help Lone\\Model\\Wizard.cs",
+              "RelativeToolTip": "Model\\Wizard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T10:23:14.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Witch.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\SOLID\\Help Lone\\Model\\Witch.cs",
+              "RelativeDocumentMoniker": "Model\\Witch.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\SOLID\\Help Lone\\Model\\Witch.cs",
+              "RelativeToolTip": "Model\\Witch.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T10:23:06.345Z",
               "EditorCaption": ""
             }
           ]
