@@ -2,11 +2,10 @@
 
 namespace Help_Lone.Model
 {
-	internal class Witch : Character, IMage, ITeleporter, IHealer, IGender
+	internal class Witch : Character, IMage, ITeleporter, IHealer
 	{
 		public int Mana { get; set; }
 		public int MaxMana { get; set; }
-		public bool IsMale { get; set; }
 
 		public Witch(string name, int age) : base(name, age)
 		{

@@ -3,24 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\Public\\Documents\\SOLID\\Help Lone\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{37F17842-A2D1-4FAC-860F-04DD90D63363}|Help Lone.csproj|c:\\users\\public\\documents\\solid\\help lone\\enums\\swordtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F17842-A2D1-4FAC-860F-04DD90D63363}|Help Lone.csproj|solutionrelative:enums\\swordtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F17842-A2D1-4FAC-860F-04DD90D63363}|Help Lone.csproj|c:\\users\\public\\documents\\solid\\help lone\\interface\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F17842-A2D1-4FAC-860F-04DD90D63363}|Help Lone.csproj|solutionrelative:interface\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F17842-A2D1-4FAC-860F-04DD90D63363}|Help Lone.csproj|C:\\Users\\Public\\Documents\\SOLID\\Help Lone\\model\\wizard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F17842-A2D1-4FAC-860F-04DD90D63363}|Help Lone.csproj|solutionrelative:model\\wizard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F17842-A2D1-4FAC-860F-04DD90D63363}|Help Lone.csproj|C:\\Users\\Public\\Documents\\SOLID\\Help Lone\\model\\witch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F17842-A2D1-4FAC-860F-04DD90D63363}|Help Lone.csproj|solutionrelative:model\\witch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{37F17842-A2D1-4FAC-860F-04DD90D63363}|Help Lone.csproj|c:\\users\\public\\documents\\solid\\help lone\\model\\knight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{37F17842-A2D1-4FAC-860F-04DD90D63363}|Help Lone.csproj|solutionrelative:model\\knight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37F17842-A2D1-4FAC-860F-04DD90D63363}|Help Lone.csproj|c:\\users\\public\\documents\\solid\\help lone\\model\\barbarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{37F17842-A2D1-4FAC-860F-04DD90D63363}|Help Lone.csproj|C:\\Users\\Public\\Documents\\SOLID\\Help Lone\\model\\barbarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{37F17842-A2D1-4FAC-860F-04DD90D63363}|Help Lone.csproj|solutionrelative:model\\barbarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37F17842-A2D1-4FAC-860F-04DD90D63363}|Help Lone.csproj|c:\\users\\public\\documents\\solid\\help lone\\model\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{37F17842-A2D1-4FAC-860F-04DD90D63363}|Help Lone.csproj|C:\\Users\\Public\\Documents\\SOLID\\Help Lone\\model\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{37F17842-A2D1-4FAC-860F-04DD90D63363}|Help Lone.csproj|solutionrelative:model\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37F17842-A2D1-4FAC-860F-04DD90D63363}|Help Lone.csproj|c:\\users\\public\\documents\\solid\\help lone\\model\\wizard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37F17842-A2D1-4FAC-860F-04DD90D63363}|Help Lone.csproj|solutionrelative:model\\wizard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{37F17842-A2D1-4FAC-860F-04DD90D63363}|Help Lone.csproj|c:\\users\\public\\documents\\solid\\help lone\\interface\\iteleporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F17842-A2D1-4FAC-860F-04DD90D63363}|Help Lone.csproj|solutionrelative:interface\\iteleporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37F17842-A2D1-4FAC-860F-04DD90D63363}|Help Lone.csproj|c:\\users\\public\\documents\\solid\\help lone\\model\\witch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37F17842-A2D1-4FAC-860F-04DD90D63363}|Help Lone.csproj|solutionrelative:model\\witch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{37F17842-A2D1-4FAC-860F-04DD90D63363}|Help Lone.csproj|c:\\users\\public\\documents\\solid\\help lone\\interface\\ishield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F17842-A2D1-4FAC-860F-04DD90D63363}|Help Lone.csproj|solutionrelative:interface\\ishield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F17842-A2D1-4FAC-860F-04DD90D63363}|Help Lone.csproj|c:\\users\\public\\documents\\solid\\help lone\\interface\\ihealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F17842-A2D1-4FAC-860F-04DD90D63363}|Help Lone.csproj|solutionrelative:interface\\ihealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F17842-A2D1-4FAC-860F-04DD90D63363}|Help Lone.csproj|c:\\users\\public\\documents\\solid\\help lone\\interface\\igender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F17842-A2D1-4FAC-860F-04DD90D63363}|Help Lone.csproj|solutionrelative:interface\\igender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F17842-A2D1-4FAC-860F-04DD90D63363}|Help Lone.csproj|c:\\users\\public\\documents\\solid\\help lone\\interface\\ifighter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F17842-A2D1-4FAC-860F-04DD90D63363}|Help Lone.csproj|solutionrelative:interface\\ifighter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F17842-A2D1-4FAC-860F-04DD90D63363}|Help Lone.csproj|c:\\users\\public\\documents\\solid\\help lone\\interface\\icharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F17842-A2D1-4FAC-860F-04DD90D63363}|Help Lone.csproj|solutionrelative:interface\\icharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,19 +62,110 @@
       "DocumentGroups": [
         {
           "DockedWidth": 290,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Barbarian.cs",
-              "DocumentMoniker": "C:\\Users\\Public\\Documents\\SOLID\\Help Lone\\Model\\Barbarian.cs",
-              "RelativeDocumentMoniker": "Model\\Barbarian.cs",
-              "ToolTip": "C:\\Users\\Public\\Documents\\SOLID\\Help Lone\\Model\\Barbarian.cs",
-              "RelativeToolTip": "Model\\Barbarian.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAADAAAA",
+              "DocumentIndex": 7,
+              "Title": "ITeleporter.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\SOLID\\Help Lone\\Interface\\ITeleporter.cs",
+              "RelativeDocumentMoniker": "Interface\\ITeleporter.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\SOLID\\Help Lone\\Interface\\ITeleporter.cs",
+              "RelativeToolTip": "Interface\\ITeleporter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T11:16:17.703Z",
+              "WhenOpened": "2024-06-14T11:27:58.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IShield.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\SOLID\\Help Lone\\Interface\\IShield.cs",
+              "RelativeDocumentMoniker": "Interface\\IShield.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\SOLID\\Help Lone\\Interface\\IShield.cs",
+              "RelativeToolTip": "Interface\\IShield.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T11:27:53.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IMage.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\SOLID\\Help Lone\\Interface\\IMage.cs",
+              "RelativeDocumentMoniker": "Interface\\IMage.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\SOLID\\Help Lone\\Interface\\IMage.cs",
+              "RelativeToolTip": "Interface\\IMage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T11:27:48.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IHealer.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\SOLID\\Help Lone\\Interface\\IHealer.cs",
+              "RelativeDocumentMoniker": "Interface\\IHealer.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\SOLID\\Help Lone\\Interface\\IHealer.cs",
+              "RelativeToolTip": "Interface\\IHealer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T11:27:44.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IGender.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\SOLID\\Help Lone\\Interface\\IGender.cs",
+              "RelativeDocumentMoniker": "Interface\\IGender.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\SOLID\\Help Lone\\Interface\\IGender.cs",
+              "RelativeToolTip": "Interface\\IGender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T11:27:39.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IFighter.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\SOLID\\Help Lone\\Interface\\IFighter.cs",
+              "RelativeDocumentMoniker": "Interface\\IFighter.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\SOLID\\Help Lone\\Interface\\IFighter.cs",
+              "RelativeToolTip": "Interface\\IFighter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T11:27:34.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ICharacter.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\SOLID\\Help Lone\\Interface\\ICharacter.cs",
+              "RelativeDocumentMoniker": "Interface\\ICharacter.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\SOLID\\Help Lone\\Interface\\ICharacter.cs",
+              "RelativeToolTip": "Interface\\ICharacter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T11:27:28.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SwordType.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\SOLID\\Help Lone\\Enums\\SwordType.cs",
+              "RelativeDocumentMoniker": "Enums\\SwordType.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\SOLID\\Help Lone\\Enums\\SwordType.cs",
+              "RelativeToolTip": "Enums\\SwordType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T11:27:15.587Z",
               "EditorCaption": ""
             },
             {
@@ -55,20 +178,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
+              "Title": "Barbarian.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\SOLID\\Help Lone\\Model\\Barbarian.cs",
+              "RelativeDocumentMoniker": "Model\\Barbarian.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\SOLID\\Help Lone\\Model\\Barbarian.cs",
+              "RelativeToolTip": "Model\\Barbarian.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T11:16:17.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Knight.cs",
               "DocumentMoniker": "C:\\Users\\Public\\Documents\\SOLID\\Help Lone\\Model\\Knight.cs",
               "RelativeDocumentMoniker": "Model\\Knight.cs",
               "ToolTip": "C:\\Users\\Public\\Documents\\SOLID\\Help Lone\\Model\\Knight.cs",
               "RelativeToolTip": "Model\\Knight.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAADAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-14T11:16:08.38Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Character.cs",
               "DocumentMoniker": "C:\\Users\\Public\\Documents\\SOLID\\Help Lone\\Model\\Character.cs",
               "RelativeDocumentMoniker": "Model\\Character.cs",
@@ -81,26 +217,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Wizard.cs",
               "DocumentMoniker": "C:\\Users\\Public\\Documents\\SOLID\\Help Lone\\Model\\Wizard.cs",
               "RelativeDocumentMoniker": "Model\\Wizard.cs",
               "ToolTip": "C:\\Users\\Public\\Documents\\SOLID\\Help Lone\\Model\\Wizard.cs",
               "RelativeToolTip": "Model\\Wizard.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-14T10:23:14.286Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Witch.cs",
               "DocumentMoniker": "C:\\Users\\Public\\Documents\\SOLID\\Help Lone\\Model\\Witch.cs",
               "RelativeDocumentMoniker": "Model\\Witch.cs",
               "ToolTip": "C:\\Users\\Public\\Documents\\SOLID\\Help Lone\\Model\\Witch.cs",
               "RelativeToolTip": "Model\\Witch.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAADAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-14T10:23:06.345Z",
               "EditorCaption": ""

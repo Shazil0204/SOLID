@@ -27,7 +27,6 @@ namespace Help_Lone.Model
 		{
 
 		}
-
 		public override void Fight()
 		{
 
