@@ -8,6 +8,9 @@ namespace Coffee_Machine
 {
 	public class CoffeeBeansContainer
 	{
+		/// <summary>
+		/// i made this priva
+		/// </summary>
 		public int CoffeeBeans { get; private set; }
 
 		public void AddCoffeeBeans(int amount)

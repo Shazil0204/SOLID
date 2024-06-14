@@ -3,11 +3,23 @@
   "WorkspaceRootPath": "C:\\Users\\Public\\Documents\\SOLID\\Coffee Machine\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5C5B6505-662E-4B70-B971-86AF0FFECDA1}|Coffee Machine.csproj|c:\\users\\public\\documents\\solid\\coffee machine\\model\\interface\\icoffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C5B6505-662E-4B70-B971-86AF0FFECDA1}|Coffee Machine.csproj|solutionrelative:model\\interface\\icoffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5C5B6505-662E-4B70-B971-86AF0FFECDA1}|Coffee Machine.csproj|c:\\users\\public\\documents\\solid\\coffee machine\\controller\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C5B6505-662E-4B70-B971-86AF0FFECDA1}|Coffee Machine.csproj|solutionrelative:controller\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C5B6505-662E-4B70-B971-86AF0FFECDA1}|Coffee Machine.csproj|c:\\users\\public\\documents\\solid\\coffee machine\\model\\coffeemachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5C5B6505-662E-4B70-B971-86AF0FFECDA1}|Coffee Machine.csproj|c:\\users\\public\\documents\\solid\\coffee machine\\interface\\icoffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C5B6505-662E-4B70-B971-86AF0FFECDA1}|Coffee Machine.csproj|solutionrelative:interface\\icoffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5B6505-662E-4B70-B971-86AF0FFECDA1}|Coffee Machine.csproj|c:\\users\\public\\documents\\solid\\coffee machine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C5B6505-662E-4B70-B971-86AF0FFECDA1}|Coffee Machine.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5B6505-662E-4B70-B971-86AF0FFECDA1}|Coffee Machine.csproj|c:\\users\\public\\documents\\solid\\coffee machine\\model\\coffeebeanscontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C5B6505-662E-4B70-B971-86AF0FFECDA1}|Coffee Machine.csproj|solutionrelative:model\\coffeebeanscontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5B6505-662E-4B70-B971-86AF0FFECDA1}|Coffee Machine.csproj|C:\\Users\\Public\\Documents\\SOLID\\Coffee Machine\\model\\coffeemachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C5B6505-662E-4B70-B971-86AF0FFECDA1}|Coffee Machine.csproj|solutionrelative:model\\coffeemachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -23,27 +35,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ICoffee.cs",
-              "DocumentMoniker": "C:\\Users\\Public\\Documents\\SOLID\\Coffee Machine\\Model\\Interface\\ICoffee.cs",
-              "RelativeDocumentMoniker": "Model\\Interface\\ICoffee.cs",
-              "ToolTip": "C:\\Users\\Public\\Documents\\SOLID\\Coffee Machine\\Model\\Interface\\ICoffee.cs",
-              "RelativeToolTip": "Model\\Interface\\ICoffee.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Title": "MainController.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\SOLID\\Coffee Machine\\Controller\\MainController.cs",
+              "RelativeDocumentMoniker": "Controller\\MainController.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\SOLID\\Coffee Machine\\Controller\\MainController.cs",
+              "RelativeToolTip": "Controller\\MainController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T11:30:46.101Z",
+              "WhenOpened": "2024-06-14T08:18:42.838Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CoffeeMachine.cs",
-              "DocumentMoniker": "C:\\Users\\Public\\Documents\\SOLID\\Coffee Machine\\Model\\CoffeeMachine.cs",
-              "RelativeDocumentMoniker": "Model\\CoffeeMachine.cs",
-              "ToolTip": "C:\\Users\\Public\\Documents\\SOLID\\Coffee Machine\\Model\\CoffeeMachine.cs",
-              "RelativeToolTip": "Model\\CoffeeMachine.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAZAAAA",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\SOLID\\Coffee Machine\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\SOLID\\Coffee Machine\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T10:23:51.293Z",
+              "WhenOpened": "2024-06-14T08:18:52.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CoffeeBeansContainer.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\SOLID\\Coffee Machine\\Model\\CoffeeBeansContainer.cs",
+              "RelativeDocumentMoniker": "Model\\CoffeeBeansContainer.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\SOLID\\Coffee Machine\\Model\\CoffeeBeansContainer.cs",
+              "RelativeToolTip": "Model\\CoffeeBeansContainer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T08:01:29.289Z",
               "EditorCaption": ""
             },
             {
@@ -53,6 +78,32 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICoffee.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\SOLID\\Coffee Machine\\Interface\\ICoffee.cs",
+              "RelativeDocumentMoniker": "Interface\\ICoffee.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\SOLID\\Coffee Machine\\Interface\\ICoffee.cs",
+              "RelativeToolTip": "Interface\\ICoffee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T11:30:46.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CoffeeMachine.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\SOLID\\Coffee Machine\\Model\\CoffeeMachine.cs",
+              "RelativeDocumentMoniker": "Model\\CoffeeMachine.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\SOLID\\Coffee Machine\\Model\\CoffeeMachine.cs",
+              "RelativeToolTip": "Model\\CoffeeMachine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T10:23:51.293Z",
+              "EditorCaption": ""
             }
           ]
         }

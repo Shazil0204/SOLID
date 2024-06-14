@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{5C5B6505-662E-4B70-B971-86AF0FFECDA1}</ProjectGuid>
+    <ProjectGuid>{37F17842-A2D1-4FAC-860F-04DD90D63363}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Coffee_Machine</RootNamespace>
-    <AssemblyName>Coffee Machine</AssemblyName>
+    <RootNamespace>Help_Lone</RootNamespace>
+    <AssemblyName>Help Lone</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,19 +43,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Controller\MainController.cs" />
-    <Compile Include="Model\BasicCoffeeMachine.cs" />
-    <Compile Include="Model\CoffeeBeansContainer.cs" />
-    <Compile Include="Model\Filter.cs" />
-    <Compile Include="Interface\ICoffee.cs" />
-    <Compile Include="Model\WaterContainer.cs" />
-    <Compile Include="Model\CoffeeMachine.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Folder Include="Interface\" />
+    <Folder Include="Model\" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
